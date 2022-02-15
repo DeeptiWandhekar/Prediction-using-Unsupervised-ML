@@ -1,0 +1,2 @@
+# Prediction-using-Unsupervised-ML
+Prediction using unsupervised ML -From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually. From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually. Probably the most well known method, the elbow method, in which the sum of squares at each number of clusters is calculated and graphed, and the user looks for a change of slope from steep to shallow (an elbow) to determine the optimal number of clusters.
